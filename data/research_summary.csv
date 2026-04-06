@@ -1,0 +1,9 @@
+metric,value
+Total Sessions Analyzed,99085
+Anomalies Detected (Model),4955
+Normal Sessions (Model),94130
+Ground Truth Anomalies,0
+Ground Truth Normal,99085
+Overall Accuracy,0.9500
+Sensitivity (True Positive Rate),0.0000
+Specificity (True Negative Rate),0.9500

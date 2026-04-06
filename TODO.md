@@ -1,0 +1,1 @@
+# TODO Steps for Pushing to GitHub\n\n- [ ] Step 1: Update .gitignore\n- [ ] Step 2: git init\n- [ ] Step 3: git add .\n- [ ] Step 4: git commit\n- [ ] Step 5: gh repo create User-Behavior-Profiling --public\n- [ ] Step 6: git push -u origin master\n- [ ] Step 7: Verify remote and completion
